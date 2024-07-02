@@ -15,3 +15,21 @@ To use this project, simply download or clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/responsive-product-page.git
+```
+
+Alternatively, you can directly copy the HTML and CSS files into your project directory.
+
+## Usage
+1. Ensure you have a web browser to view the HTML file.
+
+2. Open the `index.html` file in your web browser to see the responsive product page in action.
+
+## Example
+When you open the index.html file, you will see a product page featuring an image gallery, product details, and a purchase button. Resize the browser window to observe how the page layout adjusts to different screen sizes.
+
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
