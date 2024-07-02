@@ -14,7 +14,7 @@ This project showcases how to create a responsive product page using HTML and CS
 To use this project, simply download or clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/responsive-product-page.git
+git clone https://github.com/logusivam/Responsive-Product-Page.git
 ```
 
 Alternatively, you can directly copy the HTML and CSS files into your project directory.
